@@ -1,0 +1,2 @@
+julia>=0.5.7
+git+https://github.com/jlapeyre/julia_project.git
