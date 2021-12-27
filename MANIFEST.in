@@ -1,0 +1,4 @@
+include diffeq_julia/sys_image/*.jl
+include diffeq_julia/sys_image/Project.toml
+include diffeq_julia/Project.toml
+include diffeq_julia/julia_src/*.jl
