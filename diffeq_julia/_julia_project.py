@@ -19,9 +19,6 @@ julia_project.run()
 
 # logger = julia_project.logger
 
-# Directory of Julia source files that may be loaded via Python
-julia_src_dir = julia_project.julia_src_dir
-
 def compile_diffeq_julia():
     """
     Compile a system image for `diffeq_julia` in the subdirectory `./sys_image/`. This
