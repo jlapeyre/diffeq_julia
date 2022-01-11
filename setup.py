@@ -23,7 +23,7 @@ setup(
     packages=['diffeq_julia'],
     install_requires=[
         'julia>=0.2',
-        'julia_project @ git+https://github.com/jlapeyre/julia_project.git'
+        'julia_project>=0.0.21'
     ],
     include_package_data=True,
     zip_safe=False)
